@@ -1,0 +1,73 @@
+Iniciando coleta de dados para 3 unidades...
+
+Processando Unidade: Escola de Artes, Ciências e Humanidades - ( EACH )...
+Encontrados 16 cursos.
+  - Coletando dados do curso 1/16: Bacharelado em Biotecnologia (Ciclo Básico) - integral
+  - Coletando dados do curso 2/16: Bacharelado em Educação Física e Saúde (Ciclo Básico) - integral
+  - Coletando dados do curso 3/16: Bacharelado em Gestão Ambiental (Ciclo Básico) - matutino
+  - Coletando dados do curso 4/16: Bacharelado em Gestão Ambiental (Ciclo Básico) - noturno
+  - Coletando dados do curso 5/16: Bacharelado em Lazer e Turismo (Ciclo Básico) - vespertino
+  - Coletando dados do curso 6/16: Bacharelado em Lazer e Turismo (Ciclo Básico) - noturno
+  - Coletando dados do curso 7/16: Bacharelado em Sistemas de Informação (Ciclo Básico) - matutino
+  - Coletando dados do curso 8/16: Bacharelado em Sistemas de Informação (Ciclo Básico) - noturno
+  - Coletando dados do curso 9/16: Bacharelado em Têxtil e Moda (Ciclo Básico) - matutino
+  - Coletando dados do curso 10/16: Gerontologia (Ciclo Básico) - vespertino
+  - Coletando dados do curso 11/16: Gestão de Políticas Públicas (Ciclo Básico) - matutino
+  - Coletando dados do curso 12/16: Gestão de Políticas Públicas (Ciclo Básico) - noturno
+  - Coletando dados do curso 13/16: Licenciatura em Ciências da Natureza (Ciclo Básico) - noturno
+  - Coletando dados do curso 14/16: Marketing (Ciclo Básico) - matutino
+  - Coletando dados do curso 15/16: Marketing (Ciclo Básico) - noturno
+  - Coletando dados do curso 16/16: Obstetrícia (Ciclo Básico) - integral
+
+Processando Unidade: Escola de Comunicações e Artes - ( ECA )...
+Encontrados 34 cursos.
+  - Coletando dados do curso 1/34: Artes Cênicas (Ciclo Básico) - integral
+  - Coletando dados do curso 2/34: Artes Visuais (Ciclo Básico) - integral
+  - Coletando dados do curso 3/34: Bacharelado em Comunicação Social (Habilitação em Editoração) - matutino
+  - Coletando dados do curso 4/34: Bacharelado em Comunicação Social (Habilitação em Publicidade e Propaganda) - matutino
+  - Coletando dados do curso 5/34: Bacharelado em Comunicação Social (Habilitação em Publicidade e Propaganda) - noturno
+  - Coletando dados do curso 6/34: Bacharelado em Jornalismo - matutino
+  - Coletando dados do curso 7/34: Bacharelado em Jornalismo - noturno
+  - Coletando dados do curso 8/34: Bacharelado em Relações Públicas - matutino
+  - Coletando dados do curso 9/34: Bacharelado em Relações Públicas - noturno
+  - Coletando dados do curso 10/34: Biblioteconomia e Ciência da Informação - matutino
+  - Coletando dados do curso 11/34: Biblioteconomia e Ciência da Informação - noturno
+  - Coletando dados do curso 12/34: Curso Superior do Audiovisual - integral
+  - Coletando dados do curso 13/34: Licenciatura em Educomunicação - noturno
+  - Coletando dados do curso 14/34: Música - Bacharelado (Ciclo Básico - Composição e Regência) - integral
+  - Coletando dados do curso 15/34: Música - Bacharelado (Habilitação em Canto e Arte Lírica) - integral
+  - Coletando dados do curso 16/34: Música - Bacharelado (Habilitação em Instrumento de Cordas - Ênfase em Contrabaixo) - integral
+  - Coletando dados do curso 17/34: Música - Bacharelado (Habilitação em Instrumento de Cordas - Ênfase em Violino) - integral
+  - Coletando dados do curso 18/34: Música - Bacharelado (Habilitação em Instrumento de Cordas - Ênfase em Violoncelo) - integral
+  - Coletando dados do curso 19/34: Música - Bacharelado (Habilitação em Instrumento de Cordas Dedilhadas - Ênfase em Viola Brasileira) - integral
+  - Coletando dados do curso 20/34: Música - Bacharelado (Habilitação em Instrumento de Cordas Dedilhadas - Ênfase em Violão) - integral
+  - Coletando dados do curso 21/34: Música - Bacharelado (Habilitação em Instrumento de Sopro - Ênfase em Clarinete) - integral
+  - Coletando dados do curso 22/34: Música - Bacharelado (Habilitação em Instrumento de Sopro - Ênfase em Clarone) - integral
+  - Coletando dados do curso 23/34: Música - Bacharelado (Habilitação em Instrumento de Sopro - Ênfase em Fagote) - integral
+  - Coletando dados do curso 24/34: Música - Bacharelado (Habilitação em Instrumento de Sopro - Ênfase em Flauta) - integral
+  - Coletando dados do curso 25/34: Música - Bacharelado (Habilitação em Instrumento de Sopro - Ênfase em Oboé) - integral
+  - Coletando dados do curso 26/34: Música - Bacharelado (Habilitação em Instrumento de Sopro - Ênfase em Trombone) - integral
+  - Coletando dados do curso 27/34: Música - Bacharelado (Habilitação em Instrumento de Sopro - Ênfase em Trompa) - integral
+  - Coletando dados do curso 28/34: Música - Bacharelado (Habilitação em Instrumento de Sopro - Ênfase em Trompete) - integral
+  - Coletando dados do curso 29/34: Música - Bacharelado (Habilitação em Instrumento de Sopro - Ênfase em Tuba) - integral
+  - Coletando dados do curso 30/34: Música - Bacharelado (Habilitação em Instrumento de Teclado - Ênfase em Órgão) - integral
+  - Coletando dados do curso 31/34: Música - Bacharelado (Habilitação em Instrumento de Teclado - Ênfase em Piano) - integral
+  - Coletando dados do curso 32/34: Música - Bacharelado (Habilitação em Instrumento Percussão) - integral
+  - Coletando dados do curso 33/34: Música - Licenciatura - integral
+  - Coletando dados do curso 34/34: Turismo - noturno
+
+Processando Unidade: Escola de Educação Física e Esporte - ( EEFE )...
+Encontrados 1 cursos.
+  - Coletando dados do curso 1/1: Educação Física (Núcleo Geral) - integral
+
+Navegador fechado.
+
+--- Resumo da Coleta ---
+Unidades processadas: 3
+Total de cursos encontrados: 51
+Total de disciplinas únicas: 0
+
+Salvando dados em 'usp_data.json'...
+Dados salvos com sucesso!
+
+Execução concluída.

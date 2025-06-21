@@ -1,0 +1,583 @@
+{
+  "unidades": [
+    {
+      "nome": "Escola de Artes, Ciências e Humanidades - ( EACH )",
+      "cursos": [
+        "Bacharelado em Biotecnologia (Ciclo Básico) - integral",
+        "Bacharelado em Educação Física e Saúde (Ciclo Básico) - integral",
+        "Bacharelado em Gestão Ambiental (Ciclo Básico) - matutino",
+        "Bacharelado em Gestão Ambiental (Ciclo Básico) - noturno",
+        "Bacharelado em Lazer e Turismo (Ciclo Básico) - vespertino",
+        "Bacharelado em Lazer e Turismo (Ciclo Básico) - noturno",
+        "Bacharelado em Sistemas de Informação (Ciclo Básico) - matutino",
+        "Bacharelado em Sistemas de Informação (Ciclo Básico) - noturno",
+        "Bacharelado em Têxtil e Moda (Ciclo Básico) - matutino",
+        "Gerontologia (Ciclo Básico) - vespertino",
+        "Gestão de Políticas Públicas (Ciclo Básico) - matutino",
+        "Gestão de Políticas Públicas (Ciclo Básico) - noturno",
+        "Licenciatura em Ciências da Natureza (Ciclo Básico) - noturno",
+        "Marketing (Ciclo Básico) - matutino",
+        "Marketing (Ciclo Básico) - noturno",
+        "Obstetrícia (Ciclo Básico) - integral"
+      ]
+    },
+    {
+      "nome": "Escola de Comunicações e Artes - ( ECA )",
+      "cursos": [
+        "Artes Cênicas (Ciclo Básico) - integral",
+        "Artes Visuais (Ciclo Básico) - integral",
+        "Bacharelado em Comunicação Social (Habilitação em Editoração) - matutino",
+        "Bacharelado em Comunicação Social (Habilitação em Publicidade e Propaganda) - matutino",
+        "Bacharelado em Comunicação Social (Habilitação em Publicidade e Propaganda) - noturno",
+        "Bacharelado em Jornalismo - matutino",
+        "Bacharelado em Jornalismo - noturno",
+        "Bacharelado em Relações Públicas - matutino",
+        "Bacharelado em Relações Públicas - noturno",
+        "Biblioteconomia e Ciência da Informação - matutino",
+        "Biblioteconomia e Ciência da Informação - noturno",
+        "Curso Superior do Audiovisual - integral",
+        "Licenciatura em Educomunicação - noturno",
+        "Música - Bacharelado (Ciclo Básico - Composição e Regência) - integral",
+        "Música - Bacharelado (Habilitação em Canto e Arte Lírica) - integral",
+        "Música - Bacharelado (Habilitação em Instrumento de Cordas - Ênfase em Contrabaixo) - integral",
+        "Música - Bacharelado (Habilitação em Instrumento de Cordas - Ênfase em Violino) - integral",
+        "Música - Bacharelado (Habilitação em Instrumento de Cordas - Ênfase em Violoncelo) - integral",
+        "Música - Bacharelado (Habilitação em Instrumento de Cordas Dedilhadas - Ênfase em Viola Brasileira) - integral",
+        "Música - Bacharelado (Habilitação em Instrumento de Cordas Dedilhadas - Ênfase em Violão) - integral",
+        "Música - Bacharelado (Habilitação em Instrumento de Sopro - Ênfase em Clarinete) - integral",
+        "Música - Bacharelado (Habilitação em Instrumento de Sopro - Ênfase em Clarone) - integral",
+        "Música - Bacharelado (Habilitação em Instrumento de Sopro - Ênfase em Fagote) - integral",
+        "Música - Bacharelado (Habilitação em Instrumento de Sopro - Ênfase em Flauta) - integral",
+        "Música - Bacharelado (Habilitação em Instrumento de Sopro - Ênfase em Oboé) - integral",
+        "Música - Bacharelado (Habilitação em Instrumento de Sopro - Ênfase em Trombone) - integral",
+        "Música - Bacharelado (Habilitação em Instrumento de Sopro - Ênfase em Trompa) - integral",
+        "Música - Bacharelado (Habilitação em Instrumento de Sopro - Ênfase em Trompete) - integral",
+        "Música - Bacharelado (Habilitação em Instrumento de Sopro - Ênfase em Tuba) - integral",
+        "Música - Bacharelado (Habilitação em Instrumento de Teclado - Ênfase em Órgão) - integral",
+        "Música - Bacharelado (Habilitação em Instrumento de Teclado - Ênfase em Piano) - integral",
+        "Música - Bacharelado (Habilitação em Instrumento Percussão) - integral",
+        "Música - Licenciatura - integral",
+        "Turismo - noturno"
+      ]
+    },
+    {
+      "nome": "Escola de Educação Física e Esporte - ( EEFE )",
+      "cursos": [
+        "Educação Física (Núcleo Geral) - integral"
+      ]
+    }
+  ],
+  "cursos": [
+    {
+      "nome": "Bacharelado em Biotecnologia (Ciclo Básico) - integral",
+      "unidade": "Escola de Artes, Ciências e Humanidades - ( EACH )",
+      "duracao_ideal": 0,
+      "duracao_minima": 0,
+      "duracao_maxima": 0,
+      "obrigatorias": [],
+      "optativas_livres": [],
+      "optativas_eletivas": []
+    },
+    {
+      "nome": "Bacharelado em Educação Física e Saúde (Ciclo Básico) - integral",
+      "unidade": "Escola de Artes, Ciências e Humanidades - ( EACH )",
+      "duracao_ideal": 8,
+      "duracao_minima": 8,
+      "duracao_maxima": 12,
+      "obrigatorias": [],
+      "optativas_livres": [],
+      "optativas_eletivas": []
+    },
+    {
+      "nome": "Bacharelado em Gestão Ambiental (Ciclo Básico) - matutino",
+      "unidade": "Escola de Artes, Ciências e Humanidades - ( EACH )",
+      "duracao_ideal": 8,
+      "duracao_minima": 8,
+      "duracao_maxima": 12,
+      "obrigatorias": [],
+      "optativas_livres": [],
+      "optativas_eletivas": []
+    },
+    {
+      "nome": "Bacharelado em Gestão Ambiental (Ciclo Básico) - noturno",
+      "unidade": "Escola de Artes, Ciências e Humanidades - ( EACH )",
+      "duracao_ideal": 8,
+      "duracao_minima": 8,
+      "duracao_maxima": 12,
+      "obrigatorias": [],
+      "optativas_livres": [],
+      "optativas_eletivas": []
+    },
+    {
+      "nome": "Bacharelado em Lazer e Turismo (Ciclo Básico) - vespertino",
+      "unidade": "Escola de Artes, Ciências e Humanidades - ( EACH )",
+      "duracao_ideal": 8,
+      "duracao_minima": 8,
+      "duracao_maxima": 12,
+      "obrigatorias": [],
+      "optativas_livres": [],
+      "optativas_eletivas": []
+    },
+    {
+      "nome": "Bacharelado em Lazer e Turismo (Ciclo Básico) - noturno",
+      "unidade": "Escola de Artes, Ciências e Humanidades - ( EACH )",
+      "duracao_ideal": 8,
+      "duracao_minima": 8,
+      "duracao_maxima": 12,
+      "obrigatorias": [],
+      "optativas_livres": [],
+      "optativas_eletivas": []
+    },
+    {
+      "nome": "Bacharelado em Sistemas de Informação (Ciclo Básico) - matutino",
+      "unidade": "Escola de Artes, Ciências e Humanidades - ( EACH )",
+      "duracao_ideal": 8,
+      "duracao_minima": 8,
+      "duracao_maxima": 12,
+      "obrigatorias": [],
+      "optativas_livres": [],
+      "optativas_eletivas": []
+    },
+    {
+      "nome": "Bacharelado em Sistemas de Informação (Ciclo Básico) - noturno",
+      "unidade": "Escola de Artes, Ciências e Humanidades - ( EACH )",
+      "duracao_ideal": 8,
+      "duracao_minima": 8,
+      "duracao_maxima": 12,
+      "obrigatorias": [],
+      "optativas_livres": [],
+      "optativas_eletivas": []
+    },
+    {
+      "nome": "Bacharelado em Têxtil e Moda (Ciclo Básico) - matutino",
+      "unidade": "Escola de Artes, Ciências e Humanidades - ( EACH )",
+      "duracao_ideal": 8,
+      "duracao_minima": 8,
+      "duracao_maxima": 12,
+      "obrigatorias": [],
+      "optativas_livres": [],
+      "optativas_eletivas": []
+    },
+    {
+      "nome": "Gerontologia (Ciclo Básico) - vespertino",
+      "unidade": "Escola de Artes, Ciências e Humanidades - ( EACH )",
+      "duracao_ideal": 8,
+      "duracao_minima": 8,
+      "duracao_maxima": 12,
+      "obrigatorias": [],
+      "optativas_livres": [],
+      "optativas_eletivas": []
+    },
+    {
+      "nome": "Gestão de Políticas Públicas (Ciclo Básico) - matutino",
+      "unidade": "Escola de Artes, Ciências e Humanidades - ( EACH )",
+      "duracao_ideal": 8,
+      "duracao_minima": 8,
+      "duracao_maxima": 12,
+      "obrigatorias": [],
+      "optativas_livres": [],
+      "optativas_eletivas": []
+    },
+    {
+      "nome": "Gestão de Políticas Públicas (Ciclo Básico) - noturno",
+      "unidade": "Escola de Artes, Ciências e Humanidades - ( EACH )",
+      "duracao_ideal": 8,
+      "duracao_minima": 8,
+      "duracao_maxima": 12,
+      "obrigatorias": [],
+      "optativas_livres": [],
+      "optativas_eletivas": []
+    },
+    {
+      "nome": "Licenciatura em Ciências da Natureza (Ciclo Básico) - noturno",
+      "unidade": "Escola de Artes, Ciências e Humanidades - ( EACH )",
+      "duracao_ideal": 8,
+      "duracao_minima": 8,
+      "duracao_maxima": 12,
+      "obrigatorias": [],
+      "optativas_livres": [],
+      "optativas_eletivas": []
+    },
+    {
+      "nome": "Marketing (Ciclo Básico) - matutino",
+      "unidade": "Escola de Artes, Ciências e Humanidades - ( EACH )",
+      "duracao_ideal": 8,
+      "duracao_minima": 8,
+      "duracao_maxima": 12,
+      "obrigatorias": [],
+      "optativas_livres": [],
+      "optativas_eletivas": []
+    },
+    {
+      "nome": "Marketing (Ciclo Básico) - noturno",
+      "unidade": "Escola de Artes, Ciências e Humanidades - ( EACH )",
+      "duracao_ideal": 8,
+      "duracao_minima": 8,
+      "duracao_maxima": 12,
+      "obrigatorias": [],
+      "optativas_livres": [],
+      "optativas_eletivas": []
+    },
+    {
+      "nome": "Obstetrícia (Ciclo Básico) - integral",
+      "unidade": "Escola de Artes, Ciências e Humanidades - ( EACH )",
+      "duracao_ideal": 8,
+      "duracao_minima": 8,
+      "duracao_maxima": 12,
+      "obrigatorias": [],
+      "optativas_livres": [],
+      "optativas_eletivas": []
+    },
+    {
+      "nome": "Artes Cênicas (Ciclo Básico) - integral",
+      "unidade": "Escola de Comunicações e Artes - ( ECA )",
+      "duracao_ideal": 9,
+      "duracao_minima": 8,
+      "duracao_maxima": 14,
+      "obrigatorias": [],
+      "optativas_livres": [],
+      "optativas_eletivas": []
+    },
+    {
+      "nome": "Artes Visuais (Ciclo Básico) - integral",
+      "unidade": "Escola de Comunicações e Artes - ( ECA )",
+      "duracao_ideal": 8,
+      "duracao_minima": 8,
+      "duracao_maxima": 12,
+      "obrigatorias": [],
+      "optativas_livres": [],
+      "optativas_eletivas": []
+    },
+    {
+      "nome": "Bacharelado em Comunicação Social (Habilitação em Editoração) - matutino",
+      "unidade": "Escola de Comunicações e Artes - ( ECA )",
+      "duracao_ideal": 8,
+      "duracao_minima": 8,
+      "duracao_maxima": 12,
+      "obrigatorias": [],
+      "optativas_livres": [],
+      "optativas_eletivas": []
+    },
+    {
+      "nome": "Bacharelado em Comunicação Social (Habilitação em Publicidade e Propaganda) - matutino",
+      "unidade": "Escola de Comunicações e Artes - ( ECA )",
+      "duracao_ideal": 8,
+      "duracao_minima": 8,
+      "duracao_maxima": 12,
+      "obrigatorias": [],
+      "optativas_livres": [],
+      "optativas_eletivas": []
+    },
+    {
+      "nome": "Bacharelado em Comunicação Social (Habilitação em Publicidade e Propaganda) - noturno",
+      "unidade": "Escola de Comunicações e Artes - ( ECA )",
+      "duracao_ideal": 8,
+      "duracao_minima": 8,
+      "duracao_maxima": 12,
+      "obrigatorias": [],
+      "optativas_livres": [],
+      "optativas_eletivas": []
+    },
+    {
+      "nome": "Bacharelado em Jornalismo - matutino",
+      "unidade": "Escola de Comunicações e Artes - ( ECA )",
+      "duracao_ideal": 8,
+      "duracao_minima": 8,
+      "duracao_maxima": 12,
+      "obrigatorias": [],
+      "optativas_livres": [],
+      "optativas_eletivas": []
+    },
+    {
+      "nome": "Bacharelado em Jornalismo - noturno",
+      "unidade": "Escola de Comunicações e Artes - ( ECA )",
+      "duracao_ideal": 8,
+      "duracao_minima": 8,
+      "duracao_maxima": 12,
+      "obrigatorias": [],
+      "optativas_livres": [],
+      "optativas_eletivas": []
+    },
+    {
+      "nome": "Bacharelado em Relações Públicas - matutino",
+      "unidade": "Escola de Comunicações e Artes - ( ECA )",
+      "duracao_ideal": 9,
+      "duracao_minima": 9,
+      "duracao_maxima": 14,
+      "obrigatorias": [],
+      "optativas_livres": [],
+      "optativas_eletivas": []
+    },
+    {
+      "nome": "Bacharelado em Relações Públicas - noturno",
+      "unidade": "Escola de Comunicações e Artes - ( ECA )",
+      "duracao_ideal": 8,
+      "duracao_minima": 8,
+      "duracao_maxima": 12,
+      "obrigatorias": [],
+      "optativas_livres": [],
+      "optativas_eletivas": []
+    },
+    {
+      "nome": "Biblioteconomia e Ciência da Informação - matutino",
+      "unidade": "Escola de Comunicações e Artes - ( ECA )",
+      "duracao_ideal": 8,
+      "duracao_minima": 8,
+      "duracao_maxima": 12,
+      "obrigatorias": [],
+      "optativas_livres": [],
+      "optativas_eletivas": []
+    },
+    {
+      "nome": "Biblioteconomia e Ciência da Informação - noturno",
+      "unidade": "Escola de Comunicações e Artes - ( ECA )",
+      "duracao_ideal": 8,
+      "duracao_minima": 8,
+      "duracao_maxima": 12,
+      "obrigatorias": [],
+      "optativas_livres": [],
+      "optativas_eletivas": []
+    },
+    {
+      "nome": "Curso Superior do Audiovisual - integral",
+      "unidade": "Escola de Comunicações e Artes - ( ECA )",
+      "duracao_ideal": 8,
+      "duracao_minima": 8,
+      "duracao_maxima": 12,
+      "obrigatorias": [],
+      "optativas_livres": [],
+      "optativas_eletivas": []
+    },
+    {
+      "nome": "Licenciatura em Educomunicação - noturno",
+      "unidade": "Escola de Comunicações e Artes - ( ECA )",
+      "duracao_ideal": 8,
+      "duracao_minima": 8,
+      "duracao_maxima": 12,
+      "obrigatorias": [],
+      "optativas_livres": [],
+      "optativas_eletivas": []
+    },
+    {
+      "nome": "Música - Bacharelado (Ciclo Básico - Composição e Regência) - integral",
+      "unidade": "Escola de Comunicações e Artes - ( ECA )",
+      "duracao_ideal": 8,
+      "duracao_minima": 8,
+      "duracao_maxima": 12,
+      "obrigatorias": [],
+      "optativas_livres": [],
+      "optativas_eletivas": []
+    },
+    {
+      "nome": "Música - Bacharelado (Habilitação em Canto e Arte Lírica) - integral",
+      "unidade": "Escola de Comunicações e Artes - ( ECA )",
+      "duracao_ideal": 10,
+      "duracao_minima": 10,
+      "duracao_maxima": 15,
+      "obrigatorias": [],
+      "optativas_livres": [],
+      "optativas_eletivas": []
+    },
+    {
+      "nome": "Música - Bacharelado (Habilitação em Instrumento de Cordas - Ênfase em Contrabaixo) - integral",
+      "unidade": "Escola de Comunicações e Artes - ( ECA )",
+      "duracao_ideal": 10,
+      "duracao_minima": 10,
+      "duracao_maxima": 15,
+      "obrigatorias": [],
+      "optativas_livres": [],
+      "optativas_eletivas": []
+    },
+    {
+      "nome": "Música - Bacharelado (Habilitação em Instrumento de Cordas - Ênfase em Violino) - integral",
+      "unidade": "Escola de Comunicações e Artes - ( ECA )",
+      "duracao_ideal": 10,
+      "duracao_minima": 10,
+      "duracao_maxima": 15,
+      "obrigatorias": [],
+      "optativas_livres": [],
+      "optativas_eletivas": []
+    },
+    {
+      "nome": "Música - Bacharelado (Habilitação em Instrumento de Cordas - Ênfase em Violoncelo) - integral",
+      "unidade": "Escola de Comunicações e Artes - ( ECA )",
+      "duracao_ideal": 10,
+      "duracao_minima": 10,
+      "duracao_maxima": 15,
+      "obrigatorias": [],
+      "optativas_livres": [],
+      "optativas_eletivas": []
+    },
+    {
+      "nome": "Música - Bacharelado (Habilitação em Instrumento de Cordas Dedilhadas - Ênfase em Viola Brasileira) - integral",
+      "unidade": "Escola de Comunicações e Artes - ( ECA )",
+      "duracao_ideal": 10,
+      "duracao_minima": 10,
+      "duracao_maxima": 15,
+      "obrigatorias": [],
+      "optativas_livres": [],
+      "optativas_eletivas": []
+    },
+    {
+      "nome": "Música - Bacharelado (Habilitação em Instrumento de Cordas Dedilhadas - Ênfase em Violão) - integral",
+      "unidade": "Escola de Comunicações e Artes - ( ECA )",
+      "duracao_ideal": 10,
+      "duracao_minima": 10,
+      "duracao_maxima": 15,
+      "obrigatorias": [],
+      "optativas_livres": [],
+      "optativas_eletivas": []
+    },
+    {
+      "nome": "Música - Bacharelado (Habilitação em Instrumento de Sopro - Ênfase em Clarinete) - integral",
+      "unidade": "Escola de Comunicações e Artes - ( ECA )",
+      "duracao_ideal": 10,
+      "duracao_minima": 10,
+      "duracao_maxima": 15,
+      "obrigatorias": [],
+      "optativas_livres": [],
+      "optativas_eletivas": []
+    },
+    {
+      "nome": "Música - Bacharelado (Habilitação em Instrumento de Sopro - Ênfase em Clarone) - integral",
+      "unidade": "Escola de Comunicações e Artes - ( ECA )",
+      "duracao_ideal": 10,
+      "duracao_minima": 10,
+      "duracao_maxima": 15,
+      "obrigatorias": [],
+      "optativas_livres": [],
+      "optativas_eletivas": []
+    },
+    {
+      "nome": "Música - Bacharelado (Habilitação em Instrumento de Sopro - Ênfase em Fagote) - integral",
+      "unidade": "Escola de Comunicações e Artes - ( ECA )",
+      "duracao_ideal": 10,
+      "duracao_minima": 10,
+      "duracao_maxima": 15,
+      "obrigatorias": [],
+      "optativas_livres": [],
+      "optativas_eletivas": []
+    },
+    {
+      "nome": "Música - Bacharelado (Habilitação em Instrumento de Sopro - Ênfase em Flauta) - integral",
+      "unidade": "Escola de Comunicações e Artes - ( ECA )",
+      "duracao_ideal": 10,
+      "duracao_minima": 10,
+      "duracao_maxima": 15,
+      "obrigatorias": [],
+      "optativas_livres": [],
+      "optativas_eletivas": []
+    },
+    {
+      "nome": "Música - Bacharelado (Habilitação em Instrumento de Sopro - Ênfase em Oboé) - integral",
+      "unidade": "Escola de Comunicações e Artes - ( ECA )",
+      "duracao_ideal": 10,
+      "duracao_minima": 10,
+      "duracao_maxima": 15,
+      "obrigatorias": [],
+      "optativas_livres": [],
+      "optativas_eletivas": []
+    },
+    {
+      "nome": "Música - Bacharelado (Habilitação em Instrumento de Sopro - Ênfase em Trombone) - integral",
+      "unidade": "Escola de Comunicações e Artes - ( ECA )",
+      "duracao_ideal": 10,
+      "duracao_minima": 10,
+      "duracao_maxima": 15,
+      "obrigatorias": [],
+      "optativas_livres": [],
+      "optativas_eletivas": []
+    },
+    {
+      "nome": "Música - Bacharelado (Habilitação em Instrumento de Sopro - Ênfase em Trompa) - integral",
+      "unidade": "Escola de Comunicações e Artes - ( ECA )",
+      "duracao_ideal": 10,
+      "duracao_minima": 10,
+      "duracao_maxima": 15,
+      "obrigatorias": [],
+      "optativas_livres": [],
+      "optativas_eletivas": []
+    },
+    {
+      "nome": "Música - Bacharelado (Habilitação em Instrumento de Sopro - Ênfase em Trompete) - integral",
+      "unidade": "Escola de Comunicações e Artes - ( ECA )",
+      "duracao_ideal": 10,
+      "duracao_minima": 10,
+      "duracao_maxima": 15,
+      "obrigatorias": [],
+      "optativas_livres": [],
+      "optativas_eletivas": []
+    },
+    {
+      "nome": "Música - Bacharelado (Habilitação em Instrumento de Sopro - Ênfase em Tuba) - integral",
+      "unidade": "Escola de Comunicações e Artes - ( ECA )",
+      "duracao_ideal": 10,
+      "duracao_minima": 10,
+      "duracao_maxima": 15,
+      "obrigatorias": [],
+      "optativas_livres": [],
+      "optativas_eletivas": []
+    },
+    {
+      "nome": "Música - Bacharelado (Habilitação em Instrumento de Teclado - Ênfase em Órgão) - integral",
+      "unidade": "Escola de Comunicações e Artes - ( ECA )",
+      "duracao_ideal": 10,
+      "duracao_minima": 10,
+      "duracao_maxima": 15,
+      "obrigatorias": [],
+      "optativas_livres": [],
+      "optativas_eletivas": []
+    },
+    {
+      "nome": "Música - Bacharelado (Habilitação em Instrumento de Teclado - Ênfase em Piano) - integral",
+      "unidade": "Escola de Comunicações e Artes - ( ECA )",
+      "duracao_ideal": 10,
+      "duracao_minima": 10,
+      "duracao_maxima": 15,
+      "obrigatorias": [],
+      "optativas_livres": [],
+      "optativas_eletivas": []
+    },
+    {
+      "nome": "Música - Bacharelado (Habilitação em Instrumento Percussão) - integral",
+      "unidade": "Escola de Comunicações e Artes - ( ECA )",
+      "duracao_ideal": 10,
+      "duracao_minima": 10,
+      "duracao_maxima": 15,
+      "obrigatorias": [],
+      "optativas_livres": [],
+      "optativas_eletivas": []
+    },
+    {
+      "nome": "Música - Licenciatura - integral",
+      "unidade": "Escola de Comunicações e Artes - ( ECA )",
+      "duracao_ideal": 10,
+      "duracao_minima": 10,
+      "duracao_maxima": 15,
+      "obrigatorias": [],
+      "optativas_livres": [],
+      "optativas_eletivas": []
+    },
+    {
+      "nome": "Turismo - noturno",
+      "unidade": "Escola de Comunicações e Artes - ( ECA )",
+      "duracao_ideal": 8,
+      "duracao_minima": 8,
+      "duracao_maxima": 12,
+      "obrigatorias": [],
+      "optativas_livres": [],
+      "optativas_eletivas": []
+    },
+    {
+      "nome": "Educação Física (Núcleo Geral) - integral",
+      "unidade": "Escola de Educação Física e Esporte - ( EEFE )",
+      "duracao_ideal": 8,
+      "duracao_minima": 8,
+      "duracao_maxima": 12,
+      "obrigatorias": [],
+      "optativas_livres": [],
+      "optativas_eletivas": []
+    }
+  ],
+  "disciplinas": {}
+}
