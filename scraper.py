@@ -28,7 +28,7 @@ class USPDataCollector:
     def _setup_driver(self) -> webdriver.Chrome:
         """Configura e inicializa o WebDriver do Selenium."""
         chrome_options = Options()
-        chrome_options.add_argument("--headless")
+        #chrome_options.add_argument("--headless")
         chrome_options.add_argument("--disable-gpu")
         chrome_options.add_argument("--window-size=1920x1080")
         chrome_options.add_argument("user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36")
@@ -128,6 +128,7 @@ class USPDataCollector:
             enviar_button = self.driver.find_element(By.ID, "enviar")
             self.driver.execute_script("arguments[0].click();", enviar_button)
 
+        self.wait.until(EC.element_to_be_clickable((By.ID, 'step4-tab')))
         self.wait.until(EC.presence_of_element_located((By.ID, "gradeCurricular")))
 
     def _return_to_search_form(self, unit_code: str):
