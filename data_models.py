@@ -1,5 +1,3 @@
-# data_models.py
-
 from typing import List, Dict, Set
 
 class Disciplina:
